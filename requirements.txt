@@ -1,0 +1,6 @@
+pandas==1.3.4
+keras==2.7.0
+Flask==2.0.2
+gunicorn
+numpy==1.19.5
+tensorflow==2.7.0
